@@ -15,4 +15,3 @@
 
 # Add a feed source
 echo 'src-git liuran001_packages https://github.com/liuran001/openwrt-packages' >>feeds.conf.default
-svn co https://github.com/liuran001/openwrt-packages/branches/packages
